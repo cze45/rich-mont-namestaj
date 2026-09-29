@@ -16,3 +16,9 @@ Otvorite `index.html` u pretraživaču. Fajl je samostalan i radi bez servera.
 
 - Fotografije projekata su trenutno sivi placeholder blokovi.
 - Forma za upit prikazuje poruku zahvalnosti, ali ne šalje mejl. Za slanje povežite je sa servisom kao što je Formspree ili Netlify Forms.
+
+## Mockup (predlog redizajna)
+
+`mockup.html` je predlog nove verzije sajta: ilustrovani radovi umesto sivih blokova, izbor boje fronta uživo, klizač pre/posle, kalkulator okvirne cene, česta pitanja i dugmad za poziv i Viber. Otvorite ga direktno u pretraživaču ili preko GitHub Pages na `.../mockup.html`.
+
+Brojke (350+ projekata), cene u kalkulatoru i utisci klijenata su primeri i treba ih zameniti pravim podacima.
